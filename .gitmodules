@@ -8,8 +8,8 @@
 	branch = master
 [submodule "src/github.com/concourse/atc"]
 	path = src/github.com/concourse/atc
-	url = https://github.com/concourse/atc
-	branch = master
+	url = https://github.com/ekcasey/atc
+	branch = container-error-retry
 [submodule "src/github.com/lib/pq"]
 	path = src/github.com/lib/pq
 	url = https://github.com/lib/pq
